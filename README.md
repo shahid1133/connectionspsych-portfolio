@@ -20,3 +20,13 @@ A professional healthcare and mental health website developed using Laravel, PHP
 - Bootstrap
 - JavaScript
 - jQuery
+
+- ## Screenshots
+
+![Home Page](screenshots/main.png)
+
+![About Page](screenshots/aboutus.png)
+
+![Services Page](screenshots/services.png)
+
+![Contact Page](screenshots/contactus.png)
